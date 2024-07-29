@@ -1,0 +1,12 @@
+.feedback-list {
+  text-align: center;
+}
+.feedback-item {
+  font-size: 20px;
+}
+.feedback-item:not(:last-child) {
+  margin-bottom: 10px;
+}
+.green {
+  color: green;
+}
